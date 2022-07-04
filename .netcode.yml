@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-name: itfriendsupportv2
+  name: itfriendsupportv2
 variables:
   BuildConfiguration: release
 
